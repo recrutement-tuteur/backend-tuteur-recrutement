@@ -6,10 +6,10 @@ Un projet Spring Boot pour [décrire brièvement l'objectif du projet].
 
 Avant de pouvoir démarrer ce projet, vous devez avoir installé les éléments suivants :
 
-- **Java 11+** (ou la version compatible avec votre projet)
-- **Maven** (ou **Gradle**, selon le gestionnaire de dépendances que vous utilisez)
+- **Java 17+** (ou la version compatible avec votre projet)
+- **Maven**
 - **IDE** comme IntelliJ IDEA, Eclipse, ou Visual Studio Code
-- **Base de données** (si applicable)
+- **Base de données** 
 
 ## Cloner le dépôt
 
