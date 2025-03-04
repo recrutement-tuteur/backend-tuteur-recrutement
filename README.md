@@ -6,7 +6,7 @@ Un projet Spring Boot pour [décrire brièvement l'objectif du projet].
 
 Avant de pouvoir démarrer ce projet, vous devez avoir installé les éléments suivants :
 
-- **Java 17+** (ou la version compatible avec votre projet)
+- **Java 17+**
 - **Maven**
 - **IDE** comme IntelliJ IDEA, Eclipse, ou Visual Studio Code
 - **Base de données** 
